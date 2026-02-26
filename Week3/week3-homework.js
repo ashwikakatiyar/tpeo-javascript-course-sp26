@@ -23,3 +23,5 @@ In the function, use a switch statement to output the day of the week associated
 from 0 to 6 to the terminal (if number is 0 then  output Sunday, if number is 1 then output Monday, etc.).
 Call this function 7 times for each number from 0 to 6.
 */
+
+
